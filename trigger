@@ -1,1 +1,2 @@
-test the trigger autmatically
+#test the trigger autmatically
+pwd
